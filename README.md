@@ -1,9 +1,10 @@
 # Privacy Policy
 
-This Privacy Policy outlines how your personal information is handled when you use our iOS app, **Flexiboard**.
+## Introduction
+Welcome to **Flexiboard**! We take your privacy seriously and are committed to ensuring that your personal information remains secure. This privacy policy outlines how we handle data within our app.
 
 ## Information We Collect
-**Flexiboard** does **not** collect any personal information about you. It operates by saving text data locally on your iPhone device. We do **not** have access to the Text Snippets or any other personal data stored on your device.
+**Flexiboard** does **not** collect any personal information about you. Text Snippets are stored locally on your iPhone device. We do **not** have access to the Text Snippets or any other personal data stored on your device.
 
 ## How We Use Your Information
 We do **not** utilize or access the information stored by Flexiboard in any way.
