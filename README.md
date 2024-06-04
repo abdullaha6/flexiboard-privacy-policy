@@ -7,7 +7,7 @@ Welcome to **Flexiboard**! We take your privacy seriously and are committed to e
 **Flexiboard** does **not** collect any personal information about you. Text Snippets are stored locally on your iPhone device. We do **not** have access to the Text Snippets or any other personal data stored on your device.
 
 ## How We Use Your Information
-We do **not** utilize or access the information stored by Flexiboard in any way.
+We do **not** utilize or access the data stored by Flexiboard in any way.
 
 ## Sharing Your Information
 We do not share your information with third parties. The text data saved by **Flexiboard** is securely stored on your device, and it remains inaccessible to us or any external parties.
